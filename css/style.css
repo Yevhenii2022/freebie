@@ -1,0 +1,59 @@
+:root {
+
+}
+
+
+
+font-family: 'Homemade Apple';
+font-style: normal;
+font-weight: 400;
+
+font-family: 'Gilroy';
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+
+/* Base styles */
+body {
+
+}
+
+/* reset start */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+.link {
+  text-decoration: none;
+  color: currentColor;
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+}
+/* reset end */
+
+.section {
+
+}
+
+.container {
+  
+}
+
+
+/* Header */
+
